@@ -35,4 +35,33 @@ let mySampleObject = {
 
 let myZooAnimals;
 
+
+//First animal object//
+myZooAnimals=[{
+  animalType:'Leopard',
+  name:'Amur',
+  age:'5 years',
+  pictureURL:'https://media.istockphoto.com/id/186344201/photo/amur-leopard.jpg?s=1024x1024&w=is&k=20&c=IFhd4VR__m6dq-HOgFJtUyFkcf2ExLrN2W1cum9FkQc=',
+},
+
+//Second animal object 
+{
+  animalType:'Cattle',
+  name:'Highland Cattle',
+  age:'unknown',
+  pictureURL:'https://media.istockphoto.com/id/1096437516/photo/a-highland-cattle-on-the-meadow.jpg?s=1024x1024&w=is&k=20&c=PzYBy2yJoRmyrYIPs6CZV6W0BBxxk__26MYQTMG4WwI=',
+  
+},
+//Third animal object
+{
+  animalType:'Pelican',
+  name:'Pink-backed-Pelican',
+  age:'unknown',
+  pictureURL:'https://media.istockphoto.com/id/1237833801/photo/pink-backed-pelican-pelecanus-rufescens-relaxed.jpg?s=612x612&w=is&k=20&c=DT6WrT2O3qKzbqmhptb--up08is2ERiOZe0pg6pilRo=',
+
+}
+
+
+]
+
 //END OF ASSIGNMENT
